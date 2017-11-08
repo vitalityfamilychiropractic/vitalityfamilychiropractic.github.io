@@ -29,7 +29,7 @@
 		}
 	</style>
 	<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
-	<link rel="canonical" href="/appointment" />
+	<link rel="canonical" href="{{ page.url }}" />
 	<script type="text/javascript">
 		window._wpemojiSettings = {
 			"baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/",
@@ -93,7 +93,6 @@
 	<link rel='stylesheet' id='jquery-ui-smoothness-css' href='/wp-content/plugins/vfc/jquery/themes/smoothness/jquery-ui.min.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='google-fonts-css' href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700&amp;ver=3.0.1' type='text/css' media='all' />
 	<link rel='stylesheet' id='simple-social-icons-font-css' href='/wp-content/plugins/simple-social-icons/css/style.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='slider_styles-css' href='/wp-content/plugins/genesis-responsive-slider/style.css' type='text/css' media='all' />
 	<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js'></script>
 	<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js'></script>
 	<!--[if lt IE 9]>
@@ -158,21 +157,8 @@
 		</div>
 		{% include footer.html %}
 	</div>
-	<script type='text/javascript'>
-		jQuery(document).ready(function($) {
-			$(".flexslider").flexslider({
-				controlsContainer: "#genesis-responsive-slider",
-				animation: "slide",
-				directionNav: 1,
-				controlNav: 1,
-				animationDuration: 800,
-				slideshowSpeed: 4000
-			});
-		});
-	</script>
 	<script type='text/javascript' src='/wp-includes/js/jquery/ui/core.min.js'></script>
 	<script type='text/javascript' src='/wp-includes/js/comment-reply.min.js'></script>
-	<script type='text/javascript' src='/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js'></script>
 	<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js'></script>
 </body>
 
