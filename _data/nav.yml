@@ -20,6 +20,10 @@
 - title: Specialties
   id: specialties
   subcategories:
+    - title: Home Visits
+      id: home-visits
+      href: /specialties/home-visits
+      
     - title: Pregnancy Care
       id: pregnancy-care
       href: /specialties/pregnancy-care
