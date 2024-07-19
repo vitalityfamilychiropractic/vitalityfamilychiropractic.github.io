@@ -1,11 +1,43 @@
 members:
+  - key: ashley-harmon
+    subsites: [ 'college-station' ]
+    name: Ashley Harmon, DC
+    #certifications: CACCP, Webster Technique
+    specialty: Prenatal, Pediatric, and Family Wellness Care
+    length_work: 11 Years
+    email: drashley@vitalityfamilychiropractic.com
+    phone: (979) 703-7977
+    #facebook_username: drchristiemclarty
+    biography: >-
+      Dr. Ashley ...
+    practice_weights:
+      - title: Prenatal
+        pct: 40
+
+      - title: Pediatric
+        pct: 30
+
+      - title: Family Wellness
+        pct: 30
+    whats_important:
+      - Helping you live life to the fullest 
+      - Supporting families through their healthcare decisions 
+      - Special needs populations 
+      - Birth, breast-feeding, and intentional parenting 
+      - Creating a welcoming, loving experience for your family
+    in_office_community: >-
+      Dr. Ashley's favorite part of being a chiropractor is ...
+      
+      Please reach out if you feel we could be of service in any way.  
+
   - key: christie-mclarty
+    subsites: [ 'celebration', 'college-station' ]
     name: Christie McLarty, DC
     certifications: CACCP, Webster Technique
     specialty: Prenatal, Pediatric, and Family Wellness Care
     length_work: 11 Years
     email: drchristie@vitalityfamilychiropractic.com
-    phone: (979) 703-7977
+    phone: (407) 584-7900
     facebook_username: drchristiemclarty
     biography: >-
       Dr. Christie received her Doctor of Chiropractic Degree from Palmer College of Chiropractic in Port Orange, FL in 2011.  
@@ -20,6 +52,8 @@ members:
       Technique, and holds a board certification from The Council of Chiropractic Pediatrics of The Academy of Chiropractic Family 
       Practice (CACCP).  She has had advanced training in chiropractic cranial corrections and is actively pursuing her Pediatric 
       SOT certification.  
+
+      [*Revise this paragraph*]
 
       Dr. Christie moved to the Brazos Valley in 2011 and enjoys life here with her husband Nick and daughter Mackenzie.  Her husband 
       Nick serves as the Deputy Chief Information Security Officer for the Texas A&M University System and Mackenzie is in third grade. 
