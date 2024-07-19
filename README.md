@@ -2,6 +2,7 @@ Public website for Vitality Family Chiropractic.
 
 # Map to Data Files
 
+```
 _config.yml: Site-wide configuration settings
 _data/:
   features.yml: Big buttons on home page (label, link, and image)
@@ -16,3 +17,4 @@ our-values.md: Our Values page
 pricing.md: Lead-in text on Pricing page
 specialties/: Specialty pages
 team/: Individual team member pages (should be empty below front matter)
+```
